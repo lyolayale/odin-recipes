@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Knowledge project for basic HTML elements and attributes">
+  <title>Basic HTML</title>
+</head>
+<body>
+  <h1>Odin Recipes</h1>
+<ol>
+  <li><a href="./recipes/pbj.html"      target="_blank">Peanut Butter and Jelly</a> <div>
+    <img src="https://media.istockphoto.com/photos/photograph-of-a-peanut-butter-and-jelly-sandwich-picture-id154908283?b=1&k=20&m=154908283&s=170667a&w=0&h=3hE0xlzRfUN7QDt48RFnWgQdyGp50Xrv6od-wT6heIQ=" width="300" height="300" alt="peanut butter and jelly sandwich on a white plate">
+  </div></li>
+  <li>
+    <a href="./recipes/mac-and-cheese.html" target="_blank">Mac and Cheese</a>
+    <div>
+      <img src="https://media.istockphoto.com/photos/macaroni-and-cheese-in-a-white-bowl-on-blue-plaid-tablecloth-picture-id168511092?b=1&k=20&m=168511092&s=170667a&w=0&h=jAN1z-j8QjpNnG5ZFpK-Tbi2w8IiXw3ugouEhdChUtw=" width="300" height="300" alt="Bowl of mac and cheese">
+    </div>
+  </li>
+  <li><a href="./recipes/pizza.html" target="_blank">Pizza</a>
+    <div>
+      <img src="https://media.istockphoto.com/photos/cheesy-pepperoni-pizza-picture-id938742222?b=1&k=20&m=938742222&s=170667a&w=0&h=HyfY78AeiQM8vZbIea-iiGmNxHHuHD-PVVuHRvrCIj4=" width="300" height="" alt="Plate of pizza with a slice on a spatchula">
+    </div>
+  </li>
+  
+</ol>
+  
+</body>
+</html>

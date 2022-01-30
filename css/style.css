@@ -9,3 +9,7 @@ img {
   border-radius: 5px;
   box-shadow: 5px 5px 5px white;
 }
+
+div {
+  margin: 3rem;
+}

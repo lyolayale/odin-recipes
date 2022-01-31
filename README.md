@@ -1,6 +1,7 @@
 
+***# HTML Fundamentals***
 
-```diff
-- # HTML Fundamentals
-+ ## Demostrate foundational knowledge of basic html elements and attributes
-```
+****
+
+## Demostrate foundational knowledge of basic html elements and attributes
+
